@@ -44,4 +44,4 @@
 #### Supplements/Fertilizer  Store
 <img src = "demo_images/4.JPG"> <br>
 #### Contact Us 
-<img src = "demo_images/5.png"> <br><br>
+
